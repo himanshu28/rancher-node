@@ -1,4 +1,4 @@
-# drone-node
+# rancher-node
 Node client for the Rancher API
 
 ## Client
